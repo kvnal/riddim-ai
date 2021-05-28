@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/riddim-ai/static/css/main.68e6e47d.chunk.css",
-    "main.js": "/riddim-ai/static/js/main.87aaf7f4.chunk.js",
-    "main.js.map": "/riddim-ai/static/js/main.87aaf7f4.chunk.js.map",
+    "main.js": "/riddim-ai/static/js/main.bc617dd5.chunk.js",
+    "main.js.map": "/riddim-ai/static/js/main.bc617dd5.chunk.js.map",
     "runtime-main.js": "/riddim-ai/static/js/runtime-main.a478282b.js",
     "runtime-main.js.map": "/riddim-ai/static/js/runtime-main.a478282b.js.map",
     "static/js/2.ed1449b7.chunk.js": "/riddim-ai/static/js/2.ed1449b7.chunk.js",
@@ -16,6 +16,6 @@
     "static/js/runtime-main.a478282b.js",
     "static/js/2.ed1449b7.chunk.js",
     "static/css/main.68e6e47d.chunk.css",
-    "static/js/main.87aaf7f4.chunk.js"
+    "static/js/main.bc617dd5.chunk.js"
   ]
 }

@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/riddim-ai/static/css/main.68e6e47d.chunk.css",
-    "main.js": "/riddim-ai/static/js/main.e2ce7603.chunk.js",
-    "main.js.map": "/riddim-ai/static/js/main.e2ce7603.chunk.js.map",
+    "main.css": "/riddim-ai/static/css/main.fae1b452.chunk.css",
+    "main.js": "/riddim-ai/static/js/main.513b953d.chunk.js",
+    "main.js.map": "/riddim-ai/static/js/main.513b953d.chunk.js.map",
     "runtime-main.js": "/riddim-ai/static/js/runtime-main.a478282b.js",
     "runtime-main.js.map": "/riddim-ai/static/js/runtime-main.a478282b.js.map",
-    "static/js/2.ed1449b7.chunk.js": "/riddim-ai/static/js/2.ed1449b7.chunk.js",
-    "static/js/2.ed1449b7.chunk.js.map": "/riddim-ai/static/js/2.ed1449b7.chunk.js.map",
+    "static/js/2.e4be6769.chunk.js": "/riddim-ai/static/js/2.e4be6769.chunk.js",
+    "static/js/2.e4be6769.chunk.js.map": "/riddim-ai/static/js/2.e4be6769.chunk.js.map",
     "index.html": "/riddim-ai/index.html",
-    "static/css/main.68e6e47d.chunk.css.map": "/riddim-ai/static/css/main.68e6e47d.chunk.css.map",
-    "static/js/2.ed1449b7.chunk.js.LICENSE.txt": "/riddim-ai/static/js/2.ed1449b7.chunk.js.LICENSE.txt",
+    "static/css/main.fae1b452.chunk.css.map": "/riddim-ai/static/css/main.fae1b452.chunk.css.map",
+    "static/js/2.e4be6769.chunk.js.LICENSE.txt": "/riddim-ai/static/js/2.e4be6769.chunk.js.LICENSE.txt",
     "static/media/musicplayer.css": "/riddim-ai/static/media/disc.0f99fb74.png"
   },
   "entrypoints": [
     "static/js/runtime-main.a478282b.js",
-    "static/js/2.ed1449b7.chunk.js",
-    "static/css/main.68e6e47d.chunk.css",
-    "static/js/main.e2ce7603.chunk.js"
+    "static/js/2.e4be6769.chunk.js",
+    "static/css/main.fae1b452.chunk.css",
+    "static/js/main.513b953d.chunk.js"
   ]
 }
